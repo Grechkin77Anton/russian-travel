@@ -1,0 +1,27 @@
+.lead__polka {
+    width: calc(320px + (984 - 320) * ((100vw - 320px) / (984 - 320)));
+    margin: 40px 0 0;
+}
+
+@media screen and (min-width: 768px) {
+
+.lead__polka {
+    margin: 56px 0 0;
+}
+}
+
+@media screen and (min-width: 1024px) {
+
+
+.lead__polka {
+    width: 100%;
+}
+}
+
+@media screen and (min-width: 1280px){
+
+
+.lead__polka {
+    margin: 64px 0 0;
+}
+}
