@@ -8,21 +8,17 @@
 }
 
 @media screen and (min-width: 768px) {
-
-
-.lead__title {
-    font-size: 96px;
-    line-height: 100px;
-    padding: 0 24px;
+    .lead__title {
+        font-size: 96px;
+        line-height: 100px;
+        padding: 0 24px;
 }
 }
 
 @media screen and (min-width: 1280px) {
-
-
-.lead__title {
-    width: 720px;
-    margin: auto;
-    padding: 0;
+    .lead__title {
+        width: 720px;
+        margin: auto;
+        padding: 0;
 }
 }

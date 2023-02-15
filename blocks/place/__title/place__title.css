@@ -8,26 +8,22 @@
 }
 
 @media screen and (min-width: 768px) {
-
-
-.place__title {
-    font-weight: 900;
-    font-size: 42px;
-    line-height: 46px;
-    padding: 0px 20px 0 0;
+    .place__title {
+        font-weight: 900;
+        font-size: 42px;
+        line-height: 46px;
+        padding: 0px 20px 0 0;
 }
 
-.place__title:first-child {
-    display: flex;
-    align-items: end;
+    .place__title:first-child {
+        display: flex;
+        align-items: end;
 }
 }
 
 @media screen and (min-width: 1024px) {
-
-
-.place__title {
-    font-size: 72px;
-    line-height: 76px;
+    .place__title {
+        font-size: 72px;
+        line-height: 76px;
 }
 }

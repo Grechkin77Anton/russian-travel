@@ -8,10 +8,9 @@
 }
 
 @media screen and (min-width: 768px) {
-
-.footer__column-author {
-    line-height: 16px;
-    margin: 0;
-    padding: 0;
+    .footer__column-author {
+        line-height: 16px;
+        margin: 0;
+        padding: 0;
 }
 }

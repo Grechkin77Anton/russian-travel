@@ -12,14 +12,12 @@
 }
 
 @media screen and (min-width: 768px) {
-
-
-.footer__column-links {
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    gap: 18px;
+    .footer__column-links {
+      padding: 0;
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+      gap: 18px;
 
 }
 }
