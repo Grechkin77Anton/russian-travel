@@ -3,7 +3,7 @@
 .place {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 28px;
+    gap: 46px 22px;
 }
 }
 
@@ -15,7 +15,7 @@
 }
 }
 
-@media screen and (min-width: 1280px){
+@media screen and (min-width: 1280px) {
 
 
 .place {

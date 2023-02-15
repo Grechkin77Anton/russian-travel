@@ -11,14 +11,13 @@
 
 
 .lead__title {
-    font-weight: 900;
     font-size: 96px;
     line-height: 100px;
     padding: 0 24px;
 }
 }
 
-@media screen and (min-width: 1280px){
+@media screen and (min-width: 1280px) {
 
 
 .lead__title {

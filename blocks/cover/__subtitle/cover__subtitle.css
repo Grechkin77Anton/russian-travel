@@ -6,14 +6,12 @@
     text-align: center;
     margin: 16px 0 0;
     padding: 0 16px;
-    z-index: 3;
+    z-index: 2;
 }
 
 @media screen and (min-width: 768px) {
 
-
 .cover__subtitle {
-    font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     margin: 32px auto 0;
