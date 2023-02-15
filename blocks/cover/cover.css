@@ -28,7 +28,7 @@
 @media screen and (min-width: 1024px) {
     .cover {
         height: calc(100vw/(320/200));
-}
+    }
 }
 
 @media screen and (min-width: 1280px) {
@@ -37,10 +37,10 @@
         height: 740px;
         margin: 0 auto;
         box-sizing: border-box;
-}
+    }
 
     .cover::before {
         max-width: 1180px;
         height: 740px;
-}
+    }
 }
