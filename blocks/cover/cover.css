@@ -2,10 +2,10 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: calc(100vw/(320/205));
+    height: calc(100vw/(320/200));
     background-image: url(../../images/cover-trains.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     position: relative;
     transition: opacity ease-in-out .2s;
 }
@@ -23,12 +23,6 @@
 
 .cover:hover::before {
     opacity: 0.8;
-}
-
-@media screen and (min-width: 1024px) {
-    .cover {
-        height: calc(100vw/(320/200));
-    }
 }
 
 @media screen and (min-width: 1280px) {
